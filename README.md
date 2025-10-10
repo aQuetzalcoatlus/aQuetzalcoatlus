@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on setting up self-exploratory tools to learn quantum computing concepts.
-- 🌱 I’m currently learning Quantum Error Correction
+I am Karthik, a Physics graduate from Freiburg, Germany. I am a former science educator passionate about communicating complex ideas to a broad audience in a way that they get an intuition about the underlying science behind it.
+
+- 🔭 [Here is the latest project that I am working on](https://github.com/aQuetzalcoatlus/quantum-stepping-stones) : Through this repository, I aim to build a set of hands-on exercises that will help people looking forward to learn quantum error correction concepts.
+- 🌱 I also try the [freeCodeCamp daily challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive), and upload my results [here](https://github.com/aQuetzalcoatlus/myfreeCodeCamp_Challenges). This work is primarily aimed as a hobby, and additionally to help me practice clean code principles in Python.
 - 👯 I’m looking to collaborate on interesting QUBO/HUBO use-cases.
 
 <!--
