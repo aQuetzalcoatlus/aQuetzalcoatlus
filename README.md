@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on setting up self-exploratory tools to learn quantum computing concepts.
+- 🌱 I’m currently learning Quantum Error Correction
+- 👯 I’m looking to collaborate on interesting QUBO/HUBO use-cases.
+
 <!--
 **aQuetzalcoatlus/aQuetzalcoatlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
