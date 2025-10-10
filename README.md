@@ -13,7 +13,7 @@ I am Karthik, a Physics graduate from Freiburg, Germany. I am a former science e
 
 ## Certifications
 
-| [![IBM Quantum Business Foundations](resources/quantum-business-foundations.png)](https://www.credly.com/badges/aefdd32f-6e6c-4126-9864-d2d31d3d73f2/public_url) | [![IBM Qiskit Global Summer School 2025](resources/qiskit-global-summer-school-2025-quantum-fundamentals.png)](https://www.credly.com/badges/9d48bcca-a42e-40be-b308-edca52e2140a/public_url) | [![IBM Quantum Explorer 2023](resources/quantum-explorer-2023-foundational.png)](https://www.credly.com/badges/9041b3dc-1b83-4a89-b99b-48e49a707cb7/public_url) |
+| <a href="https://www.credly.com/badges/aefdd32f-6e6c-4126-9864-d2d31d3d73f2/public_url"><img src="resources/quantum-business-foundations.png" width="120"/></a> | <a href="https://www.credly.com/badges/9d48bcca-a42e-40be-b308-edca52e2140a/public_url"><img src="resources/qiskit-global-summer-school-2025-quantum-fundamentals.png" width="120"/></a> | <a href="https://www.credly.com/badges/9041b3dc-1b83-4a89-b99b-48e49a707cb7/public_url"><img src="resources/quantum-explorer-2023-foundational.png" width="120"/></a> |
 |:--:|:--:|:--:|
 | IBM Quantum Business Foundations | IBM Qiskit Global Summer School 2025 | IBM Quantum Explorer 2023 |
 
