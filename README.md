@@ -9,14 +9,11 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
 
 ## Current Projects
 
-- **Forest loss in the Schwarzwald**
-    - [Here is the latest project that I am working on](https://github.com/aQuetzalcoatlus/The-Schwarz-Forest) : Through this repository, I aim to explore and analyse geographic data to identify forest cover data and tree loss over a range of years.
+- [**Forest loss in the Schwarzwald**](https://github.com/aQuetzalcoatlus/The-Schwarz-Forest) : Through this repository, I aim to explore and analyse geographic data to identify forest cover data and tree loss over a range of years.
 
-- [QEC Exercises](https://github.com/aQuetzalcoatlus/quantum-stepping-stones) : Through this repository, I aim to build a set of hands-on exercises that will help people looking forward to learn quantum error correction concepts.
+- [QEC Exercises](https://github.com/aQuetzalcoatlus/quantum-stepping-stones) : In this project I am building a set of hands-on exercises that will help people looking forward to learn quantum error correction concepts.
 
 - I also try the [freeCodeCamp daily challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive), and upload my results [here](https://github.com/aQuetzalcoatlus/myfreeCodeCamp_Challenges). This work is primarily aimed as a hobby, and additionally to help me practice clean code principles in Python.
-
-- 👯 I’m looking to collaborate on interesting QUBO/HUBO use-cases.
 
 ## Certifications
 
