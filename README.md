@@ -7,11 +7,40 @@ I am Karthik, a Physics graduate from Freiburg, Germany. I am a former science e
 My master's thesis, completed in August 2025 from the University of Freiburg focused on the topic of Combinatorial Optimization. 
 Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to learn more and read the full-text.
 
-## Current Projects
+## 🧩 Featured Projects
 
-- [**Forest loss in the Schwarzwald**](https://github.com/aQuetzalcoatlus/The-Schwarz-Forest) : Through this repository, I aim to explore and analyse geographic data to identify forest cover data and tree loss over a range of years.
-
-- [QEC Exercises](https://github.com/aQuetzalcoatlus/quantum-stepping-stones) : In this project I am building a set of hands-on exercises that will help people looking forward to learn quantum error correction concepts.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Link only around image + title -->
+      <a href="https://github.com/aQuetzalcoatlus/The-Schwarz-Forest">
+        <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/The-Schwarz-Forest/master/resources/Main_Repo_image_square.png"
+             width="200"
+             alt="Forest Loss in the Schwarzwald"/>
+        <br/>
+        <strong>Forest loss in the Schwarzwald</strong>
+      </a>
+      <br/>
+      <sub>
+        Through this repository, I explore and analyse geographic data to identify forest cover and tree loss over a range of years.
+      </sub>
+    </td>
+    <td align="center" width="50%">
+      <!-- Link only around image + title -->
+      <a href="https://github.com/aQuetzalcoatlus/quantum-stepping-stones">
+        <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Main_Repo_image_square.png"
+             width="200"
+             alt="QEC Exercises"/>
+        <br/>
+        <strong>QEC Exercises</strong>
+      </a>
+      <br/>
+      <sub>
+        A growing set of hands-on exercises for learners looking to understand quantum error correction concepts.
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ## Past Projects
 
