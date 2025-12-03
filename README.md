@@ -15,8 +15,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       <!-- Link only around image + title -->
       <a href="https://github.com/aQuetzalcoatlus/The-Schwarz-Forest">
         <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/The-Schwarz-Forest/master/resources/Main_Repo_image_square.png"
-             width="200"
-             alt="Forest Loss in the Schwarzwald"/>
+     style="width:200px; height:200px; object-fit:cover;" />
         <br/>
         <strong>Forest loss in the Schwarzwald</strong>
       </a>
@@ -29,8 +28,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       <!-- Link only around image + title -->
       <a href="https://github.com/aQuetzalcoatlus/quantum-stepping-stones">
         <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Main_Repo_image_square.png"
-             width="200"
-             alt="QEC Exercises"/>
+     style="width:200px; height:200px; object-fit:cover;" />
         <br/>
         <strong>QEC Exercises</strong>
       </a>
