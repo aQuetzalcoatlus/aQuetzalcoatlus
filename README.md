@@ -17,7 +17,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         <img
           src="https://raw.githubusercontent.com/aQuetzalcoatlus/The-Schwarz-Forest/master/resources/Main_Repo_image_square.png"
           alt="Forest Loss in the Schwarzwald"
-          style="width:200px; height:200px; object-fit:cover;"
+          style="width:100%; max-width:200px; aspect-ratio:1/1; object-fit:cover;"
         />
         <br/>
         <strong>Forest loss in the Schwarzwald</strong>
@@ -33,7 +33,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         <img
           src="https://raw.githubusercontent.com/aQuetzalcoatlus/Contagion-Spread/master/resources/Contagion_Repo_image_square.png"
           alt="Agent-based infection simulation"
-          style="width:200px; height:200px; object-fit:cover;"
+          style="width:100%; max-width:200px; aspect-ratio:1/1; object-fit:cover;"
         />
         <br/>
         <strong>Infection Spread Simulation</strong>
@@ -49,7 +49,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         <img
           src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Main_Repo_image_square.png"
           alt="QEC Exercises"
-          style="width:200px; height:200px; object-fit:cover;"
+          style="width:100%; max-width:200px; aspect-ratio:1/1; object-fit:cover;"
         />
         <br/>
         <strong>QEC Exercises</strong>
