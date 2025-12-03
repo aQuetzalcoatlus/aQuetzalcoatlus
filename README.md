@@ -11,7 +11,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
 
 <table>
   <tr>
-    <!-- Project 1 -->
+    <!-- Project 1: Schwarzwald -->
     <td align="center" width="33%">
       <a href="https://github.com/aQuetzalcoatlus/The-Schwarz-Forest">
         <img
@@ -27,8 +27,23 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         Through this repository, I explore and analyse geographic data to identify forest cover and tree loss over a range of years.
       </sub>
     </td>
-
-    <!-- Project 2 -->
+    <!-- Project 2: Contagion Simulation -->
+    <td align="center" width="33%">
+      <a href="https://github.com/aQuetzalcoatlus/Contagion-Spread">
+        <img
+          src="https://raw.githubusercontent.com/aQuetzalcoatlus/Contagion-Spread/master/resources/Contagion_Repo_image_square.png"
+          alt="Agent-based infection simulation"
+          style="width:200px; height:200px; object-fit:cover;"
+        />
+        <br/>
+        <strong>Infection Spread Simulation</strong>
+      </a>
+      <br/>
+      <sub>
+        A small agent-based simulation demonstrating how infections spread among moving particles and how vaccination levels influence the course of an outbreak.
+      </sub>
+    </td>
+    <!-- Project 3: Quantum Stepping Stones -->
     <td align="center" width="33%">
       <a href="https://github.com/aQuetzalcoatlus/quantum-stepping-stones">
         <img
@@ -42,23 +57,6 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       <br/>
       <sub>
         A growing set of hands-on exercises for learners looking to understand quantum error correction concepts.
-      </sub>
-    </td>
-
-    <!-- Project 3 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/aQuetzalcoatlus/Contagion-Spread">
-        <img
-          src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Contagion_Repo_image_square.png"
-          alt="Agent-based infection simulation"
-          style="width:200px; height:200px; object-fit:cover;"
-        />
-        <br/>
-        <strong>Infection Spread Simulation</strong>
-      </a>
-      <br/>
-      <sub>
-        A small agent-based simulation demonstrating how infections spread among moving particles and how vaccination levels influence the course of an outbreak.
       </sub>
     </td>
   </tr>
