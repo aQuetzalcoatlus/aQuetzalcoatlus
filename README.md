@@ -45,7 +45,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       </sub>
     </td>
 
-    <!-- Project 3 — NEW -->
+    <!-- Project 3 -->
     <td align="center" width="33%">
       <a href="https://github.com/aQuetzalcoatlus/Contagion-Spread">
         <img
