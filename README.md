@@ -11,11 +11,14 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <!-- Link only around image + title -->
+    <!-- Project 1 -->
+    <td align="center" width="33%">
       <a href="https://github.com/aQuetzalcoatlus/The-Schwarz-Forest">
-        <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/The-Schwarz-Forest/master/resources/Main_Repo_image_square.png"
-     style="width:200px; height:200px; object-fit:cover;" />
+        <img
+          src="https://raw.githubusercontent.com/aQuetzalcoatlus/The-Schwarz-Forest/master/resources/Main_Repo_image_square.png"
+          alt="Forest Loss in the Schwarzwald"
+          style="width:200px; height:200px; object-fit:cover;"
+        />
         <br/>
         <strong>Forest loss in the Schwarzwald</strong>
       </a>
@@ -24,11 +27,15 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         Through this repository, I explore and analyse geographic data to identify forest cover and tree loss over a range of years.
       </sub>
     </td>
-    <td align="center" width="50%">
-      <!-- Link only around image + title -->
+
+    <!-- Project 2 -->
+    <td align="center" width="33%">
       <a href="https://github.com/aQuetzalcoatlus/quantum-stepping-stones">
-        <img src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Main_Repo_image_square.png"
-     style="width:200px; height:200px; object-fit:cover;" />
+        <img
+          src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Main_Repo_image_square.png"
+          alt="QEC Exercises"
+          style="width:200px; height:200px; object-fit:cover;"
+        />
         <br/>
         <strong>QEC Exercises</strong>
       </a>
@@ -37,8 +44,26 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
         A growing set of hands-on exercises for learners looking to understand quantum error correction concepts.
       </sub>
     </td>
+
+    <!-- Project 3 — NEW -->
+    <td align="center" width="33%">
+      <a href="https://github.com/aQuetzalcoatlus/Contagion-Spread">
+        <img
+          src="https://raw.githubusercontent.com/aQuetzalcoatlus/quantum-stepping-stones/main/resources/Contagion_Repo_image_square.png"
+          alt="Agent-based infection simulation"
+          style="width:200px; height:200px; object-fit:cover;"
+        />
+        <br/>
+        <strong>Infection Spread Simulation</strong>
+      </a>
+      <br/>
+      <sub>
+        A small agent-based simulation demonstrating how infections spread among moving particles and how vaccination levels influence the course of an outbreak.
+      </sub>
+    </td>
   </tr>
 </table>
+
 
 ## Past Projects
 
