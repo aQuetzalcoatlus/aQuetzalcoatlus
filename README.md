@@ -69,6 +69,8 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
 
 - I occasionally try the [freeCodeCamp daily challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive), and upload my results [here](https://github.com/aQuetzalcoatlus/myfreeCodeCamp_Challenges). This work is primarily aimed as a hobby, and additionally to help me practice clean code principles in Python.
 
+
+<!--
 ## Certifications
 
 <table style="table-layout: fixed; width: 80%;">
@@ -108,8 +110,6 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
 
 
 
-
-<!--
 **aQuetzalcoatlus/aQuetzalcoatlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
