@@ -24,7 +24,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       </a>
       <br/>
       <sub>
-        Through this repository, I explore and analyse geographic data to identify forest cover and tree loss over a range of years.
+        Through this repository, I analyse geographic data to identify tree loss over a range of years.
       </sub>
     </td>
     <!-- Project 2: Contagion Simulation -->
@@ -40,7 +40,7 @@ Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to
       </a>
       <br/>
       <sub>
-        A small agent-based simulation demonstrating how infections spread among moving particles and how vaccination levels influence the course of an outbreak.
+        A small agent-based simulation demonstrating infection spread among moving particles, completed as part of coursework.
       </sub>
     </td>
     <!-- Project 3: Quantum Stepping Stones -->
