@@ -7,7 +7,7 @@ I am Karthik, a Physics graduate from Freiburg, Germany. I am a former science e
 My master's thesis, completed in August 2025 from the University of Freiburg focused on the topic of Combinatorial Optimization. 
 Check out [this repository](https://github.com/aQuetzalcoatlus/kjayd-mthesis) to learn more and read the full-text.
 
-## 🧩 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
