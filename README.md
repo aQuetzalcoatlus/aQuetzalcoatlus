@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Karthik, a Physics graduate from Freiburg, Germany. I am a former science educator passionate about communicating complex ideas to a broad audience in a way that they get an intuition about the underlying concepts.
+I am Karthik, a Physics graduate from Freiburg, Germany. I am a science educator passionate about communicating complex ideas to a broad audience in a way that they get an intuition about the underlying concepts.
 
 ## Master's thesis
 
