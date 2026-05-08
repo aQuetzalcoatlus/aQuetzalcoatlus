@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am Karthik, a Physics graduate from Freiburg, Germany. I am a science educator passionate about communicating complex ideas to a broad audience in a way that they get an intuition about the underlying concepts.
+I am Karthik, a doctoral researcher at the Forschungszentrum Juelich, Germany. I am a science educator passionate about communicating complex ideas to a broad audience in a way that they get an intuition about the underlying concepts.
+
+My current focus is on agent-based simulation of crowd dynamics.
 
 ## Master's thesis
 
